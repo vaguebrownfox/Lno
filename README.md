@@ -1,4 +1,4 @@
 # Lno
-App for interfacing with pnoi
+App for interfacing with the Pnoi-phone
 
 Use the latest apk
